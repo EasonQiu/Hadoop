@@ -1,0 +1,3 @@
+hadoop welcome
+hadoop hdfs mapreduce
+hadoop hdfs
